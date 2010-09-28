@@ -10,5 +10,6 @@ class Array
 				end
 			end
 		end
+	end
 end
 
