@@ -1,6 +1,6 @@
 ##Pesudocodes of the Alogrithms :
 
-#I List of sorting algorithms with complexity O(n^2)
+#I List of sorting algorithms with complexity O( n^2 )
 
 #0. Bubble Sort :
 
